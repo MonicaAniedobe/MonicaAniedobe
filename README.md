@@ -5,7 +5,6 @@
 
 ## I am a Data Analytics
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on several Projects to grow my data Analytics skils
 - 🌱 I’m currently learning data analytics
