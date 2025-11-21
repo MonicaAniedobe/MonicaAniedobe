@@ -3,11 +3,11 @@
 ## This is Aniedobe Monica Chinaza
 
 
-## I am a Data Analytics
+## I am a Data Analytst
 
 
 - 🔭 I’m currently working on several Projects to grow my data Analytics skils
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on leading data driven projects from conception through delivery
 - 🤔 I am open for Data Analytics role  
 - 💬 Ask me about on Data visualization
